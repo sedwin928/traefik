@@ -24,7 +24,7 @@
     "iframe-resizer": "^4.2.11",
     "lodash.isequal": "4.5.0",
     "moment": "^2.24.0",
-    "quasar": "^1.4.4",
+    "quasar": "^1.22.10",
     "query-string": "^6.13.1",
     "vh-check": "^2.0.5",
     "vue-chartjs": "^3.4.2",
